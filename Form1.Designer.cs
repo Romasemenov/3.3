@@ -73,7 +73,7 @@
 
             // openFileDialog1
             this.openFileDialog1.Filter = "Текстовые файлы (*.txt)|*.txt|Все файлы (*.*)|*.*";
-            this.openFileDialog1.Title = "Выберите текстовый файл для чтения";
+            this.openFileDialog1.Title = "Выберите текстовый файл";
 
             // saveFileDialog1
             this.saveFileDialog1.Filter = "Текстовые файлы (*.txt)|*.txt|Все файлы (*.*)|*.*";
